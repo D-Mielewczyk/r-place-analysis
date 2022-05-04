@@ -9,7 +9,7 @@ for i in range(10, 11):
     file_name = "./data/" + url.split('/')[-1]
     data = requests.get(url)
 
-    with open(file_name, 'wb')as file:
+    with open(file_name, 'wb') as file:
         file.write(data.content)
 
 print("Im done :)")
