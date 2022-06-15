@@ -8,8 +8,7 @@
 - Matplotlib
 - Numpy
 - Pandas
-- Downloaded data from the [dataset](https://www.reddit.com/r/place/comments/txvk2d/rplace_datasets_april_fools_2022/)
-Data should be in the "data" directory with names unchanged.
+- Downloaded data from the [dataset](https://www.reddit.com/r/place/comments/txvk2d/rplace_datasets_april_fools_2022/). Data should be in the "data" directory with names unchanged.
 
 ### Sources
 
